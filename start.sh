@@ -5,9 +5,9 @@ DIR="/docker/feiyangdigitalbotconf"
 
 # 定义要下载的文件的URL
 URLS=(
-    "https://hub.docker.com/r/youshandefeiyang/feiyangdigital-bot/main/config/bot.sql"
-    "https://hub.docker.com/r/youshandefeiyang/feiyangdigital-bot/main/config/config.json"
-    "https://hub.docker.com/r/youshandefeiyang/feiyangdigital-bot/main/docker-compose.yml"
+    "https://github.com/wq26888/feiyangdigital-bot/main/config/bot.sql"
+    "https://github.com/wq26888/feiyangdigital-bot/main/config/config.json"
+    "https://github.com/wq26888/feiyangdigital-bot/main/docker-compose.yml"
 )
 
 # 检查目录是否存在，如果存在则删除并重新创建
